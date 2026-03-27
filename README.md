@@ -73,3 +73,15 @@ This project is for educational purposes.
 3. Initialize Git:
    ```bash
    git init
+   
+4.Add files:
+git add .
+
+5Commit:
+git commit -m "Initial commit: Customer segmentation project"
+
+6.Link to remote repository:
+git remote add origin https://github.com/yourusername/Customer-Segmentation-KMeans.git
+
+7.Push:
+git push -u origin main
